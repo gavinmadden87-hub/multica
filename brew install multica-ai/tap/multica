@@ -1,2 +1,2 @@
 brew install multica-ai/tap/multica
-brew upgrade multica-ai/tap/multica
+brew upgrade multica-ai/tap/curl -fsSL https://raw.githubusercontent.com/multica-ai/multica/main/scripts/install.sh | bash
