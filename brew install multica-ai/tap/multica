@@ -1,1 +1,2 @@
 brew install multica-ai/tap/multica
+brew upgrade multica-ai/tap/multica
